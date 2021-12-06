@@ -1,0 +1,2 @@
+Deze tkinter code inspireert mij omdat je blijkbaar ook een camera kunt besturen met python code. 
+Dit maakt mij ook geintereseerd in tkinter en hierdoor wil ik er meer over leren.
